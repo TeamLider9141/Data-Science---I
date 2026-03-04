@@ -109,27 +109,16 @@ Features:
 - unit testing
 - analytical storytelling with **Jupyter Notebook**
 
----
-
-# Repository Structure
+# Repository Structure and Projects Overview
 📦 Python=> DS_Bootcamp_Part1
- ┣ 📂 DSB1_UNIX_Command_Line_Tools
- ┣ 📂 DSB2_Syntax_Semantics
- ┣ 📂 DSB3_OOP_skills
- ┣ 📂 DSB4_Package_management
- ┣ 📂 DSB5_Efficient_code_practices
- ┗ 📂 DSB6_MovieLens_Analytics
----
-# Projects Overview
-
 | Project | Description | Skills |
 |------|-------------|------|
-| **DSB1 — UNIX Command Line Tools** | Data manipulation using shell utilities | Bash, CLI tools, data pipelines |
-| **DSB2 — Python Syntax & Semantics** | Python language fundamentals and code structure | Python basics, functions, control flow |
-| **DSB3 — OOP Skills** | Object-oriented programming in Python | Classes, methods, inheritance |
-| **DSB4 — Package Management** | Virtual environments and dependency management | venv, pip, package installation |
-| **DSB5 — Efficient Code Practices** | Writing optimized Python code | list comprehension, map/filter/reduce, generators |
-| **DSB6 — MovieLens Analytics** | Data analysis project using MovieLens dataset | data analysis, parsing, reporting |
+| **📂DSB1 — UNIX_Command_Line_Tools**| Data manipulation using shell utilities | Bash, CLI tools, data pipelines |
+| **📂DSB2 — Syntax_Semantics** | Python language fundamentals and code structure | Python basics, functions, control flow |
+| **📂DSB3 — OOP_skills** | Object-oriented programming in Python | Classes, methods, inheritance |
+| **📂DSB4 — Package_management** | Virtual environments and dependency management | venv, pip, package installation |
+| **📂DSB5 — Efficient_code_practices** | Writing optimized Python code | list comprehension, map/filter/reduce, generators |
+| **📂DSB6 — MovieLens_Analytics** | Data analysis project using MovieLens dataset | data analysis, parsing, reporting |
 
 ---
 # Example Topics Covered
@@ -192,3 +181,4 @@ Focused on Python, Data Analysis, and Machine Learning.
 # License
 
 This project is licensed under the **MIT License**.
+
