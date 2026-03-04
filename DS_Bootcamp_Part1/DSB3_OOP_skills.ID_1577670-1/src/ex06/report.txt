@@ -1,0 +1,5 @@
+Report:
+
+We made 21 observations by tossing a coin: 12 were tails and 9 were heads.
+The probabilities are 57.14% and 42.86%, respectively.
+Our forecast is that the next 3 observations will be: 0 tails and 3 heads.

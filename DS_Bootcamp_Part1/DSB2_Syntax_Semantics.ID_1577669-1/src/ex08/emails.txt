@@ -1,0 +1,5 @@
+ivan.petrov@corp.com
+emma.geller@corp.com
+john.smith@corp.com
+faking.filler@corp.com
+lazy.boy@corp.com
