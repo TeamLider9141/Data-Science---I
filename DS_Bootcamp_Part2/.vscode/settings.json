@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/DS_Bootcamp_Part2/.venv/bin/python",
+  "python.terminal.activateEnvironment": true
+}
